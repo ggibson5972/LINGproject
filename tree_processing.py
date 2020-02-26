@@ -3,6 +3,7 @@ from nltk import Tree
 from nltk.compat import unicode_repr
 
 rnng_file = open("rnng-pubmed-trees.txt", 'r', encoding='utf-8')
+kitaev_file = open()
 
 
 def traverse_tree(tree_str):
