@@ -62,7 +62,7 @@ def read_files():
                 good_trees.write(line_r)
     k_leaves.close()
     good_trees.close()
-                # TODO: put kitaev leaves into rnng parser (need to generate files w trees)
+    # TODO: put kitaev leaves into rnng parser (need to generate files w trees)
 
 
 read_files()
