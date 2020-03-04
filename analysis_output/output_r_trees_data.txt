@@ -1,0 +1,1033 @@
+Exception while handling line 286 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 564.
+                "...))))))))  "
+                              ^.Exception while handling line 287 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 66.
+                "...)) (XX )) (PP (XX fo..."
+                              ^.Exception while handling line 669 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 249.
+                "...dies))))) (XX .))  "
+                              ^.Exception while handling line 672 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 683.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 930 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 245.
+                "...p)))))))) (XX .))  "
+                              ^.Exception while handling line 931 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 932 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 933 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Fr..."
+                              ^.Exception while handling line 1048 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 501.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 1049 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX In..."
+                              ^.Exception while handling line 1050 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(S'
+            at index 23.
+                "...) (XX ))) (S (VP (XX..."
+                              ^.Exception while handling line 1051 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 1052 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX Wi..."
+                              ^.Exception while handling line 1053 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 1241 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 474.
+                "... (XX .))  "
+                              ^.Exception while handling line 1970 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 909.
+                "...)))))))))))) (XX .) ..."
+                              ^.Exception while handling line 2057 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 722.
+                "... (XX )))) (XX .))  "
+                              ^.Exception while handling line 2058 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(S'
+            at index 23.
+                "...) (XX ))) (S (VP (XX..."
+                              ^.Exception while handling line 2059 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX It..."
+                              ^.Exception while handling line 2060 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 2061 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 2281 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 573.
+                "...XX ))))))))) (XX .))..."
+                              ^.Exception while handling line 2486 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 529.
+                "...)) (. .)) "
+                              ^Exception while handling line 2521 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 614.
+                "...xture))))))) (XX .) ..."
+                              ^.Exception while handling line 2775 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 1022.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 2890 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 709.
+                "...e))))))))))) (XX .))..."
+                              ^.Exception while handling line 3034 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 529.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 3343 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 723.
+                "... (XX .))  "
+                              ^.Exception while handling line 3432 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 238.
+                "... (XX .))  "
+                              ^.Exception while handling line 3490 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1229.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 3721 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 319.
+                "...X ))))))) (VP (XX we..."
+                              ^.Exception while handling line 4314 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 486.
+                "... (XX .))  "
+                              ^.Exception while handling line 4602 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 551.
+                "...d)))))))))) (XX .)) ..."
+                              ^.Exception while handling line 4639 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 267.
+                "... (XX .))  "
+                              ^.Exception while handling line 5008 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1106.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 5116 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Le..."
+                              ^.Exception while handling line 5117 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(S'
+            at index 23.
+                "...) (XX ))) (S (VP (XX..."
+                              ^.Exception while handling line 5118 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(S'
+            at index 23.
+                "...) (XX ))) (S (VP (XX..."
+                              ^.Exception while handling line 5210 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 482.
+                "... (XX .))  "
+                              ^.Exception while handling line 5458 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 253.
+                "... (XX .))  "
+                              ^.Exception while handling line 5599 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 668.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 5614 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 324.
+                "... (XX .))  "
+                              ^.Exception while handling line 5776 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 627.
+                "...)) (. .)) "
+                              ^Exception while handling line 6570 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1472.
+                "...))))))))))))) (XX .)..."
+                              ^.Exception while handling line 6643 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 147.
+                "... (XX .))  "
+                              ^.Exception while handling line 6727 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 445.
+                "... (XX .))  "
+                              ^.Exception while handling line 7153 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 476.
+                "...(XX ))))) (VP (XX ga..."
+                              ^.Exception while handling line 7507 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 459.
+                "... (XX .))  "
+                              ^.Exception while handling line 8253 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 926.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 8255 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 8256 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 8257 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX In..."
+                              ^.Exception while handling line 8259 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX In..."
+                              ^.Exception while handling line 8260 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 8262 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 155.
+                "...) (XX ))) (NP (XX D)..."
+                              ^.Exception while handling line 8376 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 824.
+                "...h)))))))))) (XX .)) ..."
+                              ^.Exception while handling line 8398 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 594.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 8400 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 564.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 8410 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 929.
+                "...))))))))) (XX ,) (NP..."
+                              ^.Exception while handling line 8616 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 551.
+                "... (XX .))  "
+                              ^.Exception while handling line 8670 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 858.
+                "...cy)))))))))) (XX .))..."
+                              ^.Exception while handling line 8866 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1159.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 8947 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 254.
+                "... (XX .))  "
+                              ^.Exception while handling line 9150 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 643.
+                "...es))))))) (VP (XX ha..."
+                              ^.Exception while handling line 9512 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 837.
+                "...mixing))) (XX ,) (NP..."
+                              ^.Exception while handling line 9670 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 450.
+                "... (XX .))  "
+                              ^.Exception while handling line 9674 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 188.
+                "... (XX )))) (VP (XX in..."
+                              ^.Exception while handling line 9785 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 909.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 9807 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 734.
+                "...ls))))))) (XX ;) (XX..."
+                              ^.Exception while handling line 9855 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 715.
+                "...ve))))))))))) (XX .)..."
+                              ^.Exception while handling line 9933 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 649.
+                "...id))))))) (XX .))  "
+                              ^.Exception while handling line 9938 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 9941 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...)) (XX )) (NP (NP (X..."
+                              ^.Exception while handling line 9945 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (A..."
+                              ^.Exception while handling line 9978 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 59.
+                "... (XX .))  "
+                              ^.Exception while handling line 10329 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 576.
+                "...) (XX ))) (VP (XX wa..."
+                              ^.Exception while handling line 10691 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 497.
+                "... (XX .))  "
+                              ^.Exception while handling line 10729 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 918.
+                "...)) (. .)) "
+                              ^Exception while handling line 10846 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 257.
+                "... (XX .))  "
+                              ^.Exception while handling line 10914 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 605.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 10917 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 10923 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 10924 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 835.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 10927 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(S'
+            at index 23.
+                "...) (XX ))) (S (PP (XX..."
+                              ^.Exception while handling line 10930 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (N..."
+                              ^.Exception while handling line 11252 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 479.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 11266 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 993.
+                "...et)))))))))) (XX .))..."
+                              ^.Exception while handling line 11269 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 439.
+                "...)) (. .)) "
+                              ^Exception while handling line 11305 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 461.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 11379 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 609.
+                "...)) (. .)) "
+                              ^Exception while handling line 12581 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 225.
+                "...ues)))))) (VP (XX re..."
+                              ^.Exception while handling line 13149 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 432.
+                "... (XX .))  "
+                              ^.Exception while handling line 13152 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 67.
+                "...) (XX ))) (VP (XX re..."
+                              ^.Exception while handling line 13416 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 540.
+                "...cts))))))))) (XX .))..."
+                              ^.Exception while handling line 13447 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 264.
+                "...AG))))))  "
+                              ^.Exception while handling line 13448 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 651.
+                "... (XX .))  "
+                              ^.Exception while handling line 13701 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 836.
+                "...)) (. .)) "
+                              ^Exception while handling line 13730 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 837.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 13738 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 655.
+                "...n)))))))))))) (XX .)..."
+                              ^.Exception while handling line 13739 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 436.
+                "...s)))))))))) (XX .)) ..."
+                              ^.Exception while handling line 14359 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 200.
+                "...(XX .)))  "
+                              ^.Exception while handling line 14361 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 56.
+                "...)) (XX )) (XX ,) (VP..."
+                              ^.Exception while handling line 14453 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1731.
+                "...on)))))))))) (XX .))..."
+                              ^.Exception while handling line 14696 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 14697 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 14698 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 14699 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX Af..."
+                              ^.Exception while handling line 14883 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 438.
+                "... (XX .))  "
+                              ^.Exception while handling line 15461 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 699.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 15462 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 506.
+                "...))))))))) (XX .) (LS..."
+                              ^.Exception while handling line 15491 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 1050.
+                "...sm))))))) (XX .))  "
+                              ^.Exception while handling line 15494 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX In..."
+                              ^.Exception while handling line 15522 in kitaev_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 47.
+                "...(. +/+).) (NP (DT Th..."
+                              ^Exception while handling line 15542 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 791.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 16097 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 534.
+                "... (XX .))  "
+                              ^.Exception while handling line 16569 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 602.
+                "...n)))))))) (XX .))  "
+                              ^.Exception while handling line 16741 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 232.
+                "... (XX .))  "
+                              ^.Exception while handling line 16965 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 139.
+                "... (XX .))  "
+                              ^.Exception while handling line 17070 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 228.
+                "... (XX .))  "
+                              ^.Exception while handling line 17074 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 619.
+                "... TNS))))) (XX .) (S ..."
+                              ^.Exception while handling line 17115 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 871.
+                "... (XX .))  "
+                              ^.Exception while handling line 17287 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 1365.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 17288 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX In..."
+                              ^.Exception while handling line 17290 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX In..."
+                              ^.Exception while handling line 17291 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 236.
+                "...ses)))))) (XX :) (S ..."
+                              ^.Exception while handling line 17482 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 134.
+                "... (XX .))  "
+                              ^.Exception while handling line 17662 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 573.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 18066 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 510.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 18192 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 988.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 18283 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 383.
+                "... (XX .))  "
+                              ^.Exception while handling line 18459 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 263.
+                "... (XX .))  "
+                              ^.Exception while handling line 18786 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 301.
+                "... (XX .))  "
+                              ^.Exception while handling line 18844 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 681.
+                "...2O)))))))))) (XX .))..."
+                              ^.Exception while handling line 19136 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 290.
+                "....)))))))  "
+                              ^.Exception while handling line 19140 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(ADVP'
+            at index 43.
+                "...)) (XX )) (ADVP (XX ..."
+                              ^.Exception while handling line 19224 in kitaev_file with error: Tree.read(): expected 'end-of-string' but got '(CC'
+            at index 189.
+                "...large)))) (CC and) (..."
+                              ^Exception while handling line 19713 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 532.
+                "... (XX .))  "
+                              ^.Exception while handling line 19722 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 501.
+                "... (XX .))  "
+                              ^.Exception while handling line 19750 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 562.
+                "... (XX .))  "
+                              ^.Exception while handling line 20035 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 960.
+                "... (XX .))  "
+                              ^.Exception while handling line 20075 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 184.
+                "... (XX .))  "
+                              ^.Exception while handling line 20394 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 959.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 20776 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 498.
+                "... (XX .))  "
+                              ^.Exception while handling line 20777 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(SBAR'
+            at index 136.
+                "...)) (XX )) (SBAR (XX ..."
+                              ^.Exception while handling line 20901 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 269.
+                "... (XX .))  "
+                              ^.Exception while handling line 20903 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 32.
+                "...)) (XX )) (VP (XX in..."
+                              ^.Exception while handling line 21018 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1929.
+                "...))))))))))))) (XX .)..."
+                              ^.Exception while handling line 21034 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 753.
+                "...ion)))))))) (XX .)) ..."
+                              ^.Exception while handling line 21093 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 468.
+                "...)) (. .)) "
+                              ^Exception while handling line 21139 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 626.
+                "...)) (. .)) "
+                              ^Exception while handling line 21412 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 493.
+                "...))))))))  "
+                              ^.Exception while handling line 21413 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 80.
+                "... (XX .))  "
+                              ^.Exception while handling line 21415 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 262.
+                "... (XX .))  "
+                              ^.Exception while handling line 21470 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 468.
+                "... (XX .))  "
+                              ^.Exception while handling line 21628 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 291.
+                "...XX C))))) (XX .) (S ..."
+                              ^.Exception while handling line 21631 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 442.
+                "... II)))))) (XX ;) (S ..."
+                              ^.Exception while handling line 21703 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1604.
+                "...one)))))))))) (XX .)..."
+                              ^.Exception while handling line 22691 in kitaev_file with error: Tree.read(): expected 'end-of-string' but got '(CC'
+            at index 55.
+                "...RRB- +))) (CC and) (..."
+                              ^Exception while handling line 22905 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 417.
+                "... (XX .))  "
+                              ^.Exception while handling line 22961 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 210.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 23176 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 316.
+                "...(XX .)))  "
+                              ^.Exception while handling line 23178 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 386.
+                "...X ))))))) (VP (XX fi..."
+                              ^.Exception while handling line 23180 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 246.
+                "... (XX .))  "
+                              ^.Exception while handling line 23182 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 56.
+                "...)) (XX )) (XX .))  "
+                              ^.Exception while handling line 23278 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 928.
+                "...ss))))))))) (XX .)) ..."
+                              ^.Exception while handling line 23279 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 920.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 23305 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 86.
+                "... (XX )))) (VP (XX WA..."
+                              ^.Exception while handling line 23383 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 1008.
+                "...)) (. .)) "
+                              ^Exception while handling line 23481 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 491.
+                "....5))))))) (XX .) (S ..."
+                              ^.Exception while handling line 23483 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 23484 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 23485 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX Un..."
+                              ^.Exception while handling line 23487 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 955.
+                "...ml)))))))))) (XX .))..."
+                              ^.Exception while handling line 23555 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 1075.
+                "...)) (. .)) "
+                              ^Exception while handling line 24101 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1650.
+                "...s)))))))))))) (XX .)..."
+                              ^.Exception while handling line 24174 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 482.
+                "... atom))))))) (XX .))..."
+                              ^.Exception while handling line 24307 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1104.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 24549 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 566.
+                "... (XX .))  "
+                              ^.Exception while handling line 24694 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 916.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 24815 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 476.
+                "... (XX .))  "
+                              ^.Exception while handling line 24831 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 541.
+                "...)) (. .)) "
+                              ^Exception while handling line 25063 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 370.
+                "...))))))))) (XX ,) (S ..."
+                              ^.Exception while handling line 25543 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 481.
+                "... (XX .))  "
+                              ^.Exception while handling line 25922 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 1024.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 26266 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 211.
+                "...harose))) (XX and) (..."
+                              ^.Exception while handling line 26530 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 893.
+                "...dies))))))))) (XX .)..."
+                              ^.Exception while handling line 26587 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 273.
+                "... (XX .))  "
+                              ^.Exception while handling line 26672 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 398.
+                "...) (XX ,)) (VP (XX ha..."
+                              ^.Exception while handling line 26865 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 811.
+                "...)) (. .)) "
+                              ^Exception while handling line 26866 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 784.
+                "... (XX .))  "
+                              ^.Exception while handling line 26992 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 374.
+                "... (XX .))  "
+                              ^.Exception while handling line 27699 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 600.
+                "...)) (. .)) "
+                              ^Exception while handling line 27699 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 844.
+                "...ML/s))))) (XX .))  "
+                              ^.Exception while handling line 28410 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 462.
+                "...) (XX ))) (XX .))  "
+                              ^.Exception while handling line 28422 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 664.
+                "...ls))))))) (XX .))  "
+                              ^.Exception while handling line 28423 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 433.
+                "...) (XX ))) (NP (NP (N..."
+                              ^.Exception while handling line 28536 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 1336.
+                "... (XX .))  "
+                              ^.Exception while handling line 28571 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 874.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 28583 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1017.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 28977 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 336.
+                "...) (XX ))) (VP (XX ha..."
+                              ^.Exception while handling line 29293 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 787.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 29534 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 354.
+                "... (XX )))) (XX .))  "
+                              ^.Exception while handling line 29554 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 787.
+                "...(XX )))))))) (XX .))..."
+                              ^.Exception while handling line 29789 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 358.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 29790 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 29791 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 30399 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 418.
+                "...(XX ))))) (XX ;) (S ..."
+                              ^.Exception while handling line 30656 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 752.
+                "...nates)))))))) (XX .)..."
+                              ^.Exception while handling line 30662 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 787.
+                "...X +)))))) (XX ;) (NP..."
+                              ^.Exception while handling line 30664 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 606.
+                "...odels))))))) (XX .))..."
+                              ^.Exception while handling line 30712 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 590.
+                "...ion)))))))) (XX .)) ..."
+                              ^.Exception while handling line 30873 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 580.
+                "...)) (. .)) "
+                              ^Exception while handling line 31307 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 711.
+                "...tion)))))))) (XX .))..."
+                              ^.Exception while handling line 31422 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 467.
+                "...nia)))))))) (XX .)) ..."
+                              ^.Exception while handling line 31452 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 590.
+                "...)) (. .)) "
+                              ^Exception while handling line 31797 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 618.
+                "...) (XX ,)) (XX and) (..."
+                              ^.Exception while handling line 31802 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 406.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 31865 in kitaev_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 59.
+                "...RRB- %))) (PP (IN of..."
+                              ^Exception while handling line 31944 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 235.
+                "... (XX .))  "
+                              ^.Exception while handling line 31947 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 48.
+                "...)) (XX )) (XX ,) (VP..."
+                              ^.Exception while handling line 32119 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 199.
+                "...))))))))  "
+                              ^.Exception while handling line 32122 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 139.
+                "...) (XX ))) (XX ,) (NP..."
+                              ^.Exception while handling line 32461 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 30.
+                "... (XX .))  "
+                              ^.Exception while handling line 33084 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 479.
+                "...s)))))))) (XX .))  "
+                              ^.Exception while handling line 33087 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX Wi..."
+                              ^.Exception while handling line 33090 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 33096 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 635.
+                "... .))))))  "
+                              ^.Exception while handling line 33097 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 91.
+                "...erase)))) (VP (XX we..."
+                              ^.Exception while handling line 33109 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 509.
+                "...))))))))) (VP (XX co..."
+                              ^.Exception while handling line 33112 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX Fo..."
+                              ^.Exception while handling line 33114 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 33116 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...) (XX ))) (PP (XX Af..."
+                              ^.Exception while handling line 33117 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 33119 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 33249 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 36.
+                "...6) (XX )) (XX .))  "
+                              ^.Exception while handling line 33755 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 69.
+                "... (XX .))  "
+                              ^.Exception while handling line 33864 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 910.
+                "... (XX .))  "
+                              ^.Exception while handling line 33913 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 846.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 34050 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1299.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 34051 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1133.
+                "...))))))))))) (XX .) (..."
+                              ^.Exception while handling line 34393 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 648.
+                "...val)))))))) (XX .)) ..."
+                              ^.Exception while handling line 34394 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 24.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 34511 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 557.
+                "...)) (. .)) "
+                              ^Exception while handling line 34643 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(S'
+            at index 265.
+                "...)) (XX )) (S (PP (XX..."
+                              ^.Exception while handling line 36079 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 728.
+                "... (XX .))  "
+                              ^.Exception while handling line 36147 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 407.
+                "...)) (. .)) "
+                              ^Exception while handling line 36261 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 653.
+                "...))))))))) (XX ,) (XX..."
+                              ^.Exception while handling line 36458 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1086.
+                "...dog))))))))) (XX and..."
+                              ^.Exception while handling line 36637 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 578.
+                "... (XX .))  "
+                              ^.Exception while handling line 36826 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 167.
+                "... (XX .))  "
+                              ^.Exception while handling line 36830 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 94.
+                "...)) (XX )) (XX .))  "
+                              ^.Exception while handling line 36856 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 67.
+                "... (XX .))  "
+                              ^.Exception while handling line 36883 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 455.
+                "...X ))))))) (XX .))  "
+                              ^.Exception while handling line 37824 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 318.
+                "...(XX ))))) (XX .))  "
+                              ^.Exception while handling line 38179 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 490.
+                "...)) (XX ,)))) (NP (XX..."
+                              ^.Exception while handling line 38180 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 24.
+                "...) (XX ))) (NP (XX Po..."
+                              ^.Exception while handling line 38396 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 361.
+                "...al))))))  "
+                              ^.Exception while handling line 38397 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 284.
+                "... (XX .))  "
+                              ^.Exception while handling line 38667 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 639.
+                "... (XX .))  "
+                              ^.Exception while handling line 38698 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 384.
+                "...n)))))))) (XX .))  "
+                              ^.Exception while handling line 38699 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...)) (XX )) (NP (NP (X..."
+                              ^.Exception while handling line 38742 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 245.
+                "... (XX .))  "
+                              ^.Exception while handling line 38763 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 255.
+                "... (XX .))  "
+                              ^.Exception while handling line 38842 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 488.
+                "...)) (. .)) "
+                              ^Exception while handling line 39140 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 539.
+                "... (XX .))  "
+                              ^.Exception while handling line 39257 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 407.
+                "... (XX .))  "
+                              ^.Exception while handling line 39918 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 404.
+                "... (XX .))  "
+                              ^.Exception while handling line 40195 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 2250.
+                "...nt)))))))))))) (XX ...."
+                              ^.Exception while handling line 40227 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 425.
+                "...ystem)))) (VP (XX we..."
+                              ^.Exception while handling line 40362 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 984.
+                "...nt))))))))))) (XX .)..."
+                              ^.Exception while handling line 40932 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 927.
+                "...e)))))))))) (XX .)) ..."
+                              ^.Exception while handling line 40933 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 124.
+                "...) (XX ))) (NP (XX R)..."
+                              ^.Exception while handling line 41063 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 719.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 41073 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 923.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 41090 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 616.
+                "...ura))))))))) (XX .))..."
+                              ^.Exception while handling line 41469 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 301.
+                "...) (XX ,)) (VP (XX is..."
+                              ^.Exception while handling line 41683 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 422.
+                "... (XX .))  "
+                              ^.Exception while handling line 41751 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 694.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 41845 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 986.
+                "... (XX .))  "
+                              ^.Exception while handling line 42861 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 483.
+                "...)) (. .)) "
+                              ^Exception while handling line 43141 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 701.
+                "...)) (. .)) "
+                              ^Exception while handling line 43483 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 340.
+                "...)) (. .)) "
+                              ^Exception while handling line 43832 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1010.
+                "...X ))))))))) (VP (XX ..."
+                              ^.Exception while handling line 43851 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 778.
+                "...)) (. .)) "
+                              ^Exception while handling line 43853 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 316.
+                "...)) (. .)) "
+                              ^Exception while handling line 43854 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 473.
+                "...)) (. .)) "
+                              ^Exception while handling line 43855 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 292.
+                "...)) (. .)) "
+                              ^Exception while handling line 43859 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 466.
+                "...)) (. .)) "
+                              ^Exception while handling line 43955 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 1687.
+                "...)) (. .)) "
+                              ^Exception while handling line 44339 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 545.
+                "...em))))))))) (XX .)) ..."
+                              ^.Exception while handling line 44552 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 846.
+                "... (XX .))  "
+                              ^.Exception while handling line 44553 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 1038.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 44559 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 326.
+                "... (XX .))  "
+                              ^.Exception while handling line 44571 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 105.
+                "... (XX .))  "
+                              ^.Exception while handling line 44764 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 921.
+                "...oon))))))))) (XX .))..."
+                              ^.Exception while handling line 44778 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1025.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 44780 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 323.
+                "...))))))))) (XX ,) (XX..."
+                              ^.Exception while handling line 45161 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 383.
+                "...a)))))))) (XX .))  "
+                              ^.Exception while handling line 45249 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 339.
+                "... (XX .))  "
+                              ^.Exception while handling line 45360 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 1235.
+                "... (XX .))  "
+                              ^.Exception while handling line 45371 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 727.
+                "...))))))))  "
+                              ^.Exception while handling line 45374 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 89.
+                "...) (XX ))) (XX ,) (XX..."
+                              ^.Exception while handling line 45491 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 117.
+                "... (XX .))  "
+                              ^.Exception while handling line 45585 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 756.
+                "...)) (. .)) "
+                              ^Exception while handling line 45777 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 448.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 45778 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(PP'
+            at index 23.
+                "...)) (XX )) (PP (XX wi..."
+                              ^.Exception while handling line 45779 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(S'
+            at index 23.
+                "...) (XX ))) (S (NP (NP..."
+                              ^.Exception while handling line 45780 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 23.
+                "...) (XX ))) (VP (NP (N..."
+                              ^.Exception while handling line 45782 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (ADJP ..."
+                              ^.Exception while handling line 45974 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 2155.
+                "... (XX .))  "
+                              ^.Exception while handling line 46050 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 620.
+                "...)) (. .)) "
+                              ^Exception while handling line 46303 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 316.
+                "...e)))))))) (XX ,) (S ..."
+                              ^.Exception while handling line 46306 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1409.
+                "...mounts))))))))  "
+                              ^.Exception while handling line 46307 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 447.
+                "... (XX .))  "
+                              ^.Exception while handling line 46312 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 963.
+                "...)))))))))))) (XX .))..."
+                              ^.Exception while handling line 46501 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 422.
+                "... (XX .))  "
+                              ^.Exception while handling line 46686 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 921.
+                "...m)))))))))))) (XX .)..."
+                              ^.Exception while handling line 46777 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 618.
+                "... (XX )))) (NP (XX Bo..."
+                              ^.Exception while handling line 46778 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 46780 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 609.
+                "... (XX .))  "
+                              ^.Exception while handling line 46852 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1654.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 47342 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(SBAR'
+            at index 98.
+                "...) (XX ))) (SBAR (WHN..."
+                              ^.Exception while handling line 47369 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 184.
+                "...) (XX ))) (VP (XX is..."
+                              ^.Exception while handling line 47484 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 821.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 47485 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 898.
+                "...))))))))))) (XX .)) ..."
+                              ^.Exception while handling line 47604 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 288.
+                "...)) (. .)) "
+                              ^Exception while handling line 47734 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Sp..."
+                              ^.Exception while handling line 47737 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 47740 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX F1..."
+                              ^.Exception while handling line 47998 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(VP'
+            at index 723.
+                "...(XX ))))) (VP (XX we..."
+                              ^.Exception while handling line 48029 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 339.
+                "...) (XX ))) (NP (NP (X..."
+                              ^.Exception while handling line 48442 in rnng_file with error: Tree.read(): expected 'end-of-string' but got ')'
+            at index 1077.
+                "...e))))))))))) (XX .))..."
+                              ^.Exception while handling line 48469 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 516.
+                "...)) (. .)) "
+                              ^Exception while handling line 48503 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 1221.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 48504 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(NP'
+            at index 23.
+                "...) (XX ))) (NP (XX Th..."
+                              ^.Exception while handling line 48621 in kitaev_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 262.
+                "...)) (. .)) "
+                              ^Exception while handling line 48761 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 396.
+                "...))))))))) (XX .))  "
+                              ^.Exception while handling line 48921 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 468.
+                "...)) (XX )) (XX .))  "
+                              ^.Exception while handling line 49170 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 64.
+                "...)) (XX )) (XX .))  "
+                              ^.Exception while handling line 49350 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 149.
+                "... (XX .))  "
+                              ^.Exception while handling line 49388 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 342.
+                "... (XX .))  "
+                              ^.Exception while handling line 49457 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 30.
+                "... (XX .))  "
+                              ^.Exception while handling line 49458 in rnng_file with error: Tree.read(): expected 'end-of-string' but got '(XX'
+            at index 22.
+                "...1) (XX )) (XX .))  "
+                              ^.Exception while handling line 49580 in rnng_file with error: Tree.read(): expected ')' but got 'end-of-string'
+            at index 306.
+                "... (XX .))  "
+                              ^.
