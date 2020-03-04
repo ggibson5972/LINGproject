@@ -1,8 +1,15 @@
-""" GOAL: Compare and raise flag if formats dont match (e.g.: one has VP(has (JJ test)) vs VP(has) (JJ test)"""
+"""
+GOAL: Compare and raise flag if formats dont match (e.g.: one has VP(has (JJ test)) vs VP(has) (JJ test)
+    Example tree: (S (NP (DET The) (NN cat)) (VP (TV ate) (NP (DET the) (NN food)) (. .))
+    Constituents: (DET The), (NN cat),
+    Span: (NP (DET the) (NN cat))
+"""
 import nltk
 from nltk.corpus import treebank
 import argparse
 import collections
+
+# SEMANTICS DON'T MATTER.
 
 COMPARE = lambda x, y: collections.Counter(x) == collections.Counter(y)
 # TODO: Possibly expand on constituents list. Note: RNNG lines are less descriptive giving XX as general case for words.
