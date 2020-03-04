@@ -1,7 +1,6 @@
 import nltk
 from nltk.corpus import treebank
 # SEMANTICS DON'T MATTER
-
 rnng_file = r"C:\Users\grace\PycharmProjects\LINGproject\pubmed19n0001_out00_parsed.txt"
 kitaev_file = r"C:\Users\grace\PycharmProjects\LINGproject\parsed_pubmed19n0001_out00"
 
@@ -11,7 +10,9 @@ corr_sub_count = 0
 incorr_full_count = 0
 incorr_sub_count = 0
 
-
+# Example tree: (S (NP (DET The) (NN cat)) (VP (TV ate) (NP (DET the) (NN food)) (. .))
+# Constituents: (DET The), (NN cat),
+# Span: (NP (DET the) (NN cat))
 # def leaves_to_file(k_tree):
 #     k_leaves = k_tree.leaves()
 #     with open("k_leaves.txt", 'a') as k_out:
